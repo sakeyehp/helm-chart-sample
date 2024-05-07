@@ -1,0 +1,11 @@
+apiVersion: v2
+name: my-chart
+version: 1.0.0
+description: A sample Helm chart
+deprecated: false
+appVersion: 1.1.0
+
+# maintainers
+maintainers:
+  - name: Kayode Sakeye
+    email: sakeyehp@yahoo.co.uk
